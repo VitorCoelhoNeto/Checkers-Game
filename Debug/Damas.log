@@ -1,0 +1,14 @@
+﻿  Jogador.cpp
+  Main.cpp
+C:\Users\Asus\source\repos\Damas v3.1\Tabuleiro.h(34): warning C4101: 'c': unreferenced local variable
+C:\Users\Asus\source\repos\Damas v3.1\Tabuleiro.h(34): warning C4101: 'd': unreferenced local variable
+C:\Users\Asus\source\repos\Damas v3.1\Tabuleiro.h(220): warning C4101: 'c': unreferenced local variable
+C:\Users\Asus\source\repos\Damas v3.1\Tabuleiro.h(220): warning C4101: 'd': unreferenced local variable
+  Ponto.cpp
+  Tabuleiro.cpp
+C:\Users\Asus\source\repos\Damas v3.1\Tabuleiro.h(34): warning C4101: 'c': unreferenced local variable
+C:\Users\Asus\source\repos\Damas v3.1\Tabuleiro.h(34): warning C4101: 'd': unreferenced local variable
+C:\Users\Asus\source\repos\Damas v3.1\Tabuleiro.h(220): warning C4101: 'c': unreferenced local variable
+C:\Users\Asus\source\repos\Damas v3.1\Tabuleiro.h(220): warning C4101: 'd': unreferenced local variable
+  Generating Code...
+  Damas.vcxproj -> C:\Users\Asus\source\repos\Damas v3.1\Debug\Damas.exe
